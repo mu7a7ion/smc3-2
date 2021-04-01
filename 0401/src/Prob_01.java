@@ -10,11 +10,11 @@ public class Prob_01 {
 		System.out.println("∆Ú±’¿∫ "+me.average(math,science,english));
 		}
 
-}
+}//asdasd
 class Grade
 {
 	public int average(int math, int science, int english)
 	{
 		return (math+science+english)/3;
 	}	
-}
+ }
