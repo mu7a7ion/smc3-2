@@ -28,6 +28,8 @@ public class Game {
 		int input=sc.nextInt();
 		int random=rn.nextInt(3)+1;
 		game(input,random);
+		
+		
 	}
 
 }
